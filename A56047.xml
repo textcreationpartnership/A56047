@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning to London in particular wherein the wickedness thereof is reproved, and the people put in mind of some of the sore distresses and great calamities, that God already hath brought upon that formerly florishing and happy city : also the future distress and calamities hinted at, which God will bring upon the inhabitants thereof, that come not in their day to cease to do evil, and by timely repentance, turn to the Lord, while He calls, and His Spirit yet strives with them.</title>
+            <author>Parke, James, 1636-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56047</idno>
+            <idno type="STC">Wing P376</idno>
+            <idno type="STC">ESTC R5757</idno>
+            <idno type="EEBO-CITATION">12798281</idno>
+            <idno type="OCLC">ocm 12798281</idno>
+            <idno type="VID">94007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94007)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 725:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning to London in particular wherein the wickedness thereof is reproved, and the people put in mind of some of the sore distresses and great calamities, that God already hath brought upon that formerly florishing and happy city : also the future distress and calamities hinted at, which God will bring upon the inhabitants thereof, that come not in their day to cease to do evil, and by timely repentance, turn to the Lord, while He calls, and His Spirit yet strives with them.</title>
+                  <author>Parke, James, 1636-1696.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: James Parke, Horslydown, the 14th of the 2d Moneth, 1679.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94007:1" rendition="simple:additions"/>
+            <p>A WARNING TO LONDON In Particular.</p>
+            <p>Wherein the WICKEDNESS thereof is Reproved, and the people put in mind of ſome of the Sore Diſtreſſes and Great Calamities, that GOD already hath brought upon that formerly Floriſhing and Happy CITY.</p>
+            <p>Alſo the future Diſtreſs and Calamities hinted at, which God will bring upon the Inhabitants thereof, that come not in their Day to ceaſe to do Evil, and by timely Repen<g ref="char:EOLhyphen"/>tance turn to the Lord, while he calls, and his Spirit yet ſtrives with them.</p>
+            <q>
+               <p>Or thoſe Eighteen upon whom the Tower of <hi>Siloam</hi> fell, and ſlew them; think ye that they were Sinners above all men that dwelt in <hi>Jeruſalem?</hi>
+               </p>
+               <p>I tell you, Nay; But except ye Repent, ye ſhall all like<g ref="char:EOLhyphen"/>wiſe Periſh,</p>
+               <bibl>
+                  <hi>Luke 13.4, 5.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:94007:2"/>
+            <pb n="3" facs="tcp:94007:2"/>
+            <head>A WARNING TO LONDON In Particular.</head>
+            <p>O You Inhabitants of <hi>LONDON!</hi> will you ſleep on in the Sleep of Death? Will nothing truly awaken you to Life and Righteouſneſs? Will not you call to mind but ſtrive to put far from you the Hand that hath often been lifted up and ſtretched forth againſt you in the Fury of the Lord God, againſt your Pride, and that ſtream of Wick<g ref="char:EOLhyphen"/>edneſs which hath abounded, and come as a Flood in the midſt of you, and your Streets are full of? O! the Vanity and Folly which people manifeſt as they walk the Streets! O what Pride and Vain glory, Drunkenneſs, Swearing, Lying and Debauchery in Words and Practices are many of thy Inhabitants found in! And for the Iniquity of thy Covetouſneſs, Deceiving<g ref="char:punc">▪</g> Cheating and Defrauds, that many of you ſtand guilty of before the Lord, its all loathed
+<pb n="4" facs="tcp:94007:3"/>and abhorred of him, who is of purer Eyes than to behold thoſe things as juſtifiable in you, or to approve of in any City or Town whatſoever; but they are all for Condemnation, and Judgment of the Great and Dreadful Day of God's Vengeance, that is come and coming upon them that are found wicked &amp; ungodly.</p>
+            <p>Many of you, both Men and Women, Young and Old, your Lives and Converſations declare you to be ſuch, whatever your Tongues have ſaid or ſay to the contrary againſt ſuch things in words; God will bring upon you the Fruit of your own Wayes and Works, which hath been and is Evil in his ſight: Though ye are not willing to ſee or acknowledge them, or ſenſibly have it told you, yet what hath been declared and ſounded in your Ears by the Ser<g ref="char:EOLhyphen"/>vants of the Lord, from the Mouth of the Lord, of his Judgments, Calamity and Ruin, that ſhould come upon you People of LONDON, if you repent not, will more and more ſurely be fulfilled, and come up<g ref="char:EOLhyphen"/>on you all that Repent not in time of your Wicked Works, Ways and Inventions, wherewith you have greatly provoked the Lord, and brought ſore Diſtreſ<g ref="char:EOLhyphen"/>ſes, Waſting, Miſery and Plagues upon you; and I know, God hath pleaded with you in his Wrath, and will yet more and more puniſh and afflict you, be<g ref="char:EOLhyphen"/>cauſe you have not hearkned to the Voice of his good Spirit, which he hath poured forth upon all Fleſh, and given to inſtruct you, which you have rebelled againſt<g ref="char:punc">▪</g> both Profeſſors and Prophane, you have vexed his holy Spirit, and cauſed God to turn your Enemy, and fight againſt you, that was your Friend, and formerly multiplyed his Favours and Mercies
+<pb n="5" facs="tcp:94007:3"/>upon you: how have ye rebelled againſt him, and ſtopped your Ears, and hardned your Hearts, as an <hi>Adamant,</hi> againſt his Counſel, and yet have expect<g ref="char:EOLhyphen"/>ed the Lord ſhould hearken to your Cry, and ſave you out of your Trouble and Diſtreſs; but he will give you up to the will of them that hate you, and will deſpightfully uſe you, if ye Repent not: So while ye have time own the Day of God's Viſitation, that yet he gives you that quite have not ſinned it out; and remember, God hath given you a large time to repent and turn to him in; and although he hath cal<g ref="char:EOLhyphen"/>led often, and knocked at the Doors of your Hearts, how have ye refuſed his Call, and ſhut the Doors of your Hearts againſt him, and would not have Chriſt Jeſus to rule in your Hearts, whoſe Right it is, nor would you be ſubject to his pure &amp; heavenly Govern<g ref="char:EOLhyphen"/>ment of his Kingdom, which he doth ſet up, and whereby he rules in Righteouſneſs in the Hearts of his Choſen People at this day, magnified be his Name and Kingdom (which ſtands in Righteouſneſs) for<g ref="char:EOLhyphen"/>ever and evermore; where you, that are like a Cage of unclean Birds, cannot come, nor enter into that eſtate. Therefore in the Name of the Lord God of Heaven and Earth, I warn you all, with all ſpeed to hearken to the Call of the Lord, who deſires not your death, nor your great Cities Deſtruction (as the Devil and his Agents do) but the Lord deſires that all men may be ſaved, and therefore gives all men a Day and Time to Repent and be ſaved in, through Faith in Chriſt Jeſus, his only begotten Son, who came to ſeek and ſave them that were loſt, even the loſt Sheep of the Houſe of <hi>Iſrael,</hi> to find them out, and gather them into his own Fold, to feed them in freſh and
+<pb n="6" facs="tcp:94007:4"/>green Paſtures, where he cauſeth his Beloved to reſt in the times of greateſt Storms, Perils and Troubles in this World: Such are not left Comfortleſs in their Straits, Diſtreſſes or Tryals which they may meet with in the World for their Lord and Maſter's ſake, who hath ſaved them from their Sins; they feel in them even Chriſt Jeſus, in whom is all the Saints Hope and Truſt, or elſe we were of all men moſt Mi<g ref="char:EOLhyphen"/>ſerable, who have been hated of all men for the Name of Chriſt, in which we have believed, know and truſt in: O People, this Name you have talked of and profeſſed, but it you have not known, nor could ever truſt in; you that have not known it, nor have be<g ref="char:EOLhyphen"/>lieved in it, are all Strangers to the great Work of God, and what it is to believe in his Son, whom he hath given and ſent in Love to the World, that they might believe in him<g ref="char:punc">▪</g> and not periſh, but enjoy ever<g ref="char:EOLhyphen"/>laſting Life, reſt and Peace in him, the Saviour, Chriſt Jeſus.</p>
+            <p>And let not the worſt of you ſay, <hi>That he would not pity, love nor ſave you, or that he can ſave you if he will, but queſtion whether he did ever intend Salvati<g ref="char:EOLhyphen"/>on for you:</hi> for ſuch dark Scruples and Queſtion<g ref="char:EOLhyphen"/>ings of the WILL of GOD<g ref="char:punc">▪</g> and the END of CHRIST's Coming into the World, greatly harm you all that give way to them, and either run them into a State high and conceited preſuming up<g ref="char:EOLhyphen"/>on the Grace and Favour of God to ſave and juſtifie them, notwithſtanding their Ungodlineſs; or elſe, diſpairing of any Love of God in Chriſt Jeſus for them, in order to their Salvation; one ſort of whom goes on ſinning, without the leaſt Fear of offending God; the other doubting they were never ordained
+<pb n="7" facs="tcp:94007:4"/>to Life, nor to do any thing that will pleaſe him: Now in either of theſe Paths is great Danger, and both lead to the Chambers of the Imaginary and Death; for neither is really the Narrow Way, that leads to Life, nor are Paths of pure Pleaſantneſs and Satisfaction to the Soul; but ſuch as keep People in Darkneſs, Error and Unbelief, where they have no true Peace nor Satisfaction, but remain groaping for the Wall, as if they had no Eyes to ſee the Light and Salvation of God with, not finding the Way of it, nor are really willing to abide in the Paths thereof. Therefore ceaſe from your ſeeking to find out God or his Way by your corrupt dark Reaſoning, where long ſome of you have ſought him; but what have ye found to ſtay your Minds upon, or believe in, that can ſtay you, or ſave you from your Sin? for are ye not ſtill in your ſins, and not ſaved? So turn to the pure Principle of God, that which never con<g ref="char:EOLhyphen"/>ſents to ſin in you, but doth check you, as ye come to turn to it, for the leaſt Vain Thought that you think, or any Idle Word that you ſpeak, or Wicked Action that you do in ſecret; this will bring Judg<g ref="char:EOLhyphen"/>ment and Condemnation upon that which is Evil and Diſpleaſing to God, which any Man thinks, ſpeaks or doth.</p>
+            <p>And your Set Days of Humiliation and Faſting, wherein ye have not been humbled, nor performed to the Lord an Acceptable Faſt; but your Hearts lifted up within you<g ref="char:punc">▪</g> and not right before the Lord; but by his Light and holy Spirit you may ſee are for Judgment, and the Condemnation of the great Day of God, who ſearches the Heart, and knows your
+<pb n="8" facs="tcp:94007:5"/>Hearts, and all mens whereſoever, and will ſhortly call you to give an account, what ye have entertained and lodged there, which is contrary to his Mind and Will: And its the Lord of Hoſts that ſhews to you your Vain Thoughts, when you think or lodge them: And its the Lord that ſhews you the Danger of Un<g ref="char:EOLhyphen"/>ſavoury and Idle words when you ſpeak them: And its the Lord who by his Light and Spirit of Grace convinceth People of their Evil Actions, whereby they diſhonour his Name, and grieve his good Spirit. Therefore look to Him alone, turn to his Light and Spirit of Grace in your Hearts, and that will clearly ſhew you your Sins, convince you of them all; and not only ſo, but as you believe therein, that will let you ſee your Way out of all Sin, and the Evil of the World, which you have been addicted to, whether Drunkenneſs Swearing, Lying, Whoredoms, Envy, Pride, Vain Glory, Love of Money, the Deceivable<g ref="char:EOLhyphen"/>neſs of Unrighteouſneſs, Covetouſneſs, Scoffing, Curſed Evil ſpeaking, or whatſoever: And the Light and Spirit of God, as ye turn to it, will clearly let you ſee all this to be the Works of the Devil, and the Fruits of the Fleſh, which you ought not to be found in<g ref="char:punc">▪</g> nor to ſuffer the Enemy of your Souls to work that in you which is ſo diſpleaſing to God.</p>
+            <p>So dread and fear him that comes to deſtroy the Works of the Devil and Fleſh in you, and all people every where, that not only you may eſcape and de<g ref="char:EOLhyphen"/>ny theſe more groſs Evils, but alſo your feigned Hu<g ref="char:EOLhyphen"/>miliations<g ref="char:punc">▪</g> and Faſtings and Prayers, being out of the Faith of God's Elect, and Strangers to the holy Name of Jeſus, which you talk of, make a profeſſion of, and
+<pb n="9" facs="tcp:94007:5"/>ſome of you outwardly bow at the Name of, whilſt you do not know it, nor confide in it; but in the Day of your Diſtreſs, Wo and Miſery, that already you have met with, you have leaned to Man, and put your Confidence in the Arm of Fleſh, that cannot de<g ref="char:EOLhyphen"/>liver you, nor ſave you in a Day of Trouble, but will fail you when ye expect moſt Help from it; and the Mountains &amp; Hills which you have fled to, at laſt ceaſe to lock for Salvation or Preſervation therefrom: But learn to know the Lord, and humble your ſelves un<g ref="char:EOLhyphen"/>der his mighty Hand, and learn of Chriſt Jeſus, the peaceable Saviour, that brings Peace on Earth, and not Blood ſheddings, nor learns men to handle <hi>Cain</hi>'s Weapons, nor to fight, or to deſtroy Men's Lives a<g ref="char:EOLhyphen"/>bout Faith, Worſhip and Fear towards God; for that is all the Work of the Prince of Darkneſs, that comes not but to deſtroy, being altogether contrary to the Nature of Chriſt Jeſus, as is manifeſt by his preſſing his Children &amp; Servants, that are at his Obedience, to Envy, Wrath, Bitterneſs, to the Killing of any, High or Low, Rich or Poor, which they look upon to be <hi>Hereticks.</hi> And you whoſe Faith is dead, cannot be<g ref="char:EOLhyphen"/>lieve over the Devil, and his dark Deſigns; but are filled with Doubts, Fear of Man and Unbelief, <hi>what will become of thoſe Bodies of yours and your Cities:</hi> Whereas if you did know the Lord, and could truſt in him, you would not fear what Man could do, who cannot reach further then the Body, nor that neither but as the Lord permits him and his Inſtruments.</p>
+            <p>I wiſh, in true Love to you all, that you had been as ready in your Hearts and Minds to fear and ſerve the Lord Jeſus Chriſt, as you have been to fear Men,
+<pb n="10" facs="tcp:94007:6"/>and ſerve the Devil, whom ye have been obeying and ſerving, and ſerve divers Luſts: How have ye de<g ref="char:EOLhyphen"/>lighted in the Pleaſures, Honour and Riches of this World, the Pleaſures of Sin, which are but for a ſeaſon, having had little regard to that Recompence and Reward which is Everlaſting, nor the Honour and Riches that is Durable, prepared for them that love and fear God, and that walk humbly with God; and not for them whoſe God is their Belley, who Glory in their Shame, and mind Earthly Things, who have not the Fear of God before their Eyes, nor know no Fear towards God, but what is taught by the Precepts of Men, and according to the Laws of corrupt men, that are out of the Fear and Wiſdom of God: ſuch pretend to fear, ſerve and worſhip God, but 'tis ignorantly; for their Faith ſtands in Man, and in Man's Laws, and not in the Power of God, nor the Royal Law of Love and Life of Chriſt Jeſus, who commands People, <hi>Not to fear him that only can kill the Body, and it not able to reach or kill the Soul; but to fear him that can deſtroy both Body and Soul in Hell.</hi> All are to fear Him, to dread, ſerve and re<g ref="char:EOLhyphen"/>verence Him, that made Heaven and Earth, and hath all Power in Heaven and Earth committed to Him, who hath Power to ſave your Souls, and preſerve your City from all Danger of Wicked Men, that poſſibly have Evil Deſigns againſt it and your Bodies: But the Creator of all, and who hath Power over all<g ref="char:punc">▪</g> can ſtop and put a limit to them; <hi>No further ſhall their Rage and Wickedneſs take place againſt your Bodies or City, than God permits them.</hi>
+            </p>
+            <p>And therefore turn you with all your Hearts ſpee<g ref="char:EOLhyphen"/>dily
+<pb n="11" facs="tcp:94007:6"/>to the Lord, and eye Him; <hi>not a Sparrow</hi> (much more any of your Bodies) <hi>ſhall fall to the Ground with<g ref="char:EOLhyphen"/>out his Providence.</hi> And when he ſuffers Evil to come upon a City or Nation, its for the Wickedneſs of them that dwell therein.</p>
+            <p>O that ye would conſider and lay to heart theſe things, whoſe Day is not over and gone, with whom God's Spirit yet ſtrives; O! mind it, receive and obey it, that you may come to know the Guidance and Conduct of it; and you all coming to walk in it, you will walk ſafely, and in Humility with God.</p>
+            <p>O People! Call to mind, ſeriouſly conſider all the heavy Woes and Judgments that have come upon the Inhabitants of LONDON, and why the Lord hath ſmitten you so often; O! hear his Rod, even the Rod of his fierce Wrath, that is kindled againſt you, and Revolt not from Him more and more, to the ut<g ref="char:EOLhyphen"/>ter hardning of your Hearts againſt his Reproof, and Cheeks of his Spirit in your Conſciences, that ſome<g ref="char:EOLhyphen"/>times in ſecret you have had, when no Eye ſaw you; and how unſenſible and hard are many of you grown, ſince God viſited you by his Judgments, and great Calamities of <hi>Plague, Fire</hi> and <hi>Sword.</hi> What! have you quite forgotten how the Hand of the Lord was ſtretched forth in ſo great Indignation againſt that City, that he made almoſt all Faces gather Paleneſs, and thouſands were ſtartled and amazed at that time? O! have ye forgotten how the Lord viſited your Ci<g ref="char:EOLhyphen"/>ty, and pleaded with you by a ſore, grievous, de<g ref="char:EOLhyphen"/>ſtroying <hi>Plague,</hi> wherein ſo many Thouſands periſh<g ref="char:EOLhyphen"/>ed, and Multitudes for fear of their Lives fled, as if a Deſtroying Enemy had purſued them, thinking them<g ref="char:EOLhyphen"/>ſelves
+<pb n="12" facs="tcp:94007:7"/>beſt and moſt happy that could get from the City? And have you forgotten how (afterwards) <hi>the Lord ſuffered your ſtrong City to be laid in Aſhes, and Graſs to grow in the Streets, and how many Thouſand Families were forced out of their Habitations to lodge in the Fields, and ſore put to it to get convenient Lodging, or whereon to lay their Heads?</hi> Alſo, you ought to remember, and never to forget, how your City was <hi>diſtreſſed</hi> and <hi>im<g ref="char:EOLhyphen"/>poveriſhed</hi> by the <hi>Diſappointments</hi> and <hi>Loſſes</hi> that you met with in the two <hi>Wars,</hi> that God ſuffered to be be<g ref="char:EOLhyphen"/>twixt this Nation and the <hi>States</hi> of <hi>Holland;</hi> what Preſſing! and afterwards the lamentable <hi>Cryes, Scrikes</hi> and <hi>Groans</hi> of <hi>Wounded Men!</hi> ſuch as mine Eyes never deſire to ſee, nor Ears to hear in this City or Nation, nor elſe-where any more. And truly, whatever ye look for from God, your Sins and Provocations have not been leſs ſince, but rather more againſt Him that ſmote you formerly. Surely it may be ſaid of many of you, <hi>That the more God hath ſmitten you, the more ye have revolted; and the more Forbearance and Tender<g ref="char:EOLhyphen"/>neſs he exerciſed to you<g ref="char:punc">▪</g> the more ye have ſet your ſelves in Oppoſition and Rebellion to ſlight and diſhonour him, and grieve his good Spirit.</hi>
+            </p>
+            <p>The Lord hath been loath to give the People of this City up to utter Darkneſs and Deſtruction (that I am a Witneſs of) although the Goodneſs of many that did taſte of the Goodneſs of God, was but as the early Dew<g ref="char:punc">▪</g> that ſoon was gone; then ſuch turned with the Dog to their own Vomit, and the Sow that was waſhed to wallow in the Mire again; and in<g ref="char:EOLhyphen"/>ſtead of going forward, towards that Mark of the Price of the high Calling of God in Chriſt Jeſus,
+<pb n="13" facs="tcp:94007:7"/>which they profeſſed, and were called to, have ſliden back, and gone back again into the groſs Darkneſs of <hi>Aegypt,</hi> and declaring their Sin as <hi>Sodom:</hi>
+            </p>
+            <p>And many of you that are Inhabitants of <hi>London,</hi> in this Eſtate and Condition have profeſſed the Name of the Lord, and named his Name, imagining that you believed in it, and that you were ſaved thereby, and that God would ſave, ſpare and deliver you from your Enemies; whereas ye may juſtly expect the contrary from God, if ye do not conſider your Ways, and Repent of the Evil of your Ways and Doings, and turn unto God while its called to day.</p>
+            <p>And you have been more apt to look out at <hi>Secon<g ref="char:EOLhyphen"/>dary Cauſes,</hi> than to ſmite upon your Thigh, and ſay, <hi>What have we done, as the Cauſe wherefore God doth bring all this Evil upon this City and Nation, that hath come upon us?</hi> When have your Hearts in a Godly Sorrow cryed to the Lord, <hi>To turn away his Diſpleaſure from this City and Nation</hi> that you have incur'd or brought upon your ſelves by a Continuance in Sin, and adding Sin to Sin? What elſe kindles God's Wrath, or cauſeth his Diſpleaſure to come upon a City or Peo<g ref="char:EOLhyphen"/>ple?</p>
+            <p>O! have ye not proceeded from Evil to worſe, and ruſhed into Iniquity as the Horſe ruſhes into the Bat<g ref="char:EOLhyphen"/>tel, as if the Lord did not ſee or take notice of it? but as he hath reproved you for it, and brought his heavy Judgments upon many becauſe of it, ſo he will reprove you and judge you more and more, and great <hi>Woes</hi> and <hi>Judgments</hi> God threatens your City with, to bring upon the Inhabitants of it, if ſpeedily you repent not of your Wickedneſſes, and
+<pb n="14" facs="tcp:94007:8"/>turn from them to Him that ſmiteth you. What way, or in what manner the Lord will bring his <hi>Woes</hi> and <hi>Judgments</hi> upon you, I feel not much in me to go about to determine, but leave it rather to Him, that ſeeth and is privy to all your Sins, whether ſe<g ref="char:EOLhyphen"/>cret or open.</p>
+            <p>O LONDON, LONDON! thou art a city that many Eyes are upon, watching for Evil to come to thee, (and not for Good.) But Evil ſhall come upon them that deſire and deſign thy Ruin &amp; Deſtruction; Deſtruction certainly ſhall come upon themſelves, that are ſuch Watchers for Evil, and Helliſh Contri<g ref="char:EOLhyphen"/>vers, bending their Tongues to ſpeak it, and their Hearts to put it in Practice; their own Wickedneſs ſhall correct them, and their Helliſh Confidence to purſue and bring about that Evil, which they have hatched (againſt thy Peaceable Inhabitants<g ref="char:punc">▪</g> that de<g ref="char:EOLhyphen"/>ſire to live a Peaceable and Godly Life, both in City and Country) ſhall all turn at laſt to their Confuſi<g ref="char:EOLhyphen"/>on, utter Ruin, and the Overthrow of their black Intents and Works of Darkneſs. But hereby you who Repent not will be left without Excuſe before God, who may ſuffer many of ye utterly to periſh in this Calamity becauſe of your Wickedneſs: Such Evil Inſtruments may be permitted of the Lord, as a Rod, to ſmite and be a Scourge to the People of <hi>London,</hi> and others in this Land, that are highly guilty of provo<g ref="char:EOLhyphen"/>king the Lord to Wrath, who ſometime hath ſuffer'd Evil Men as the <hi>Executioners</hi> thereof, to execute his Wrath upon People, that continue in their Wick<g ref="char:EOLhyphen"/>edneſs and Rebellion againſt him.</p>
+            <pb n="15" facs="tcp:94007:8"/>
+            <p>And you in this City, who are in that unhappy State, not knowing the Lord, who is <hi>Iſrael</hi>'s Keeper, to watch over you and your City, your <hi>Watchings, Guards</hi> and <hi>Double Watchings</hi> will be all in vain, and to no purpoſe to preſerve or deliver your City from that <hi>Evil,</hi> that aſſuredly the Lord will bring upon it, if you Repent not with all your Hearts, and ſpeedily turn unto him. Which that you may all do, while God gives you a Day, is the fervent Deſire of him, that truly ſeeks the <hi>Peace of the City,</hi> and the <hi>Good of all men every where,</hi> known unto many by the Name of</p>
+            <closer>
+               <signed>JAMES PARKE.</signed> 
+               <dateline>Horſlydown, <date>
+                     <hi>the</hi> 14th <hi>of the</hi> 2d <hi>Moneth,</hi> 1679.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
